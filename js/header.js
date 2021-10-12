@@ -1,9 +1,9 @@
 function injectHeader () {
   let headerInjectDiv = document.createElement('div');
-  headerHTML = `<div class="container-lg">
+  headerHTML = `<div class="container">
   <nav class="navbar navbar-expand-sm navbar-light bg-light">
     <div class="container-fluid">
-        <a href="#" class="navbar-brand">Brand</a>
+        <a href="#" class="navbar-brand">TestBrand</a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
