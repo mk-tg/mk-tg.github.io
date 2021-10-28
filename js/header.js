@@ -28,7 +28,7 @@ function injectHeader () {
                         <a href="./bus-tracker.html" class="dropdown-item">Bus Tracker</a>
                         <div class="dropdown-divider"></div>
                         <a href="https://github.com/mk-tg" target="_blank" class="dropdown-item">GitHub Profile</a>
-                        <a href="./project.html" class="dropdown-item">Project Directory</a>
+                        <a href="./project.html" class="dropdown-item">Projects Directory</a>
                     </div>
                 </li>
             </ul>
