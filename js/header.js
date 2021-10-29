@@ -3,9 +3,9 @@
 function injectHeader () {
   let headerInjectDiv = document.createElement('div');
   headerHTML = `<div class="container-md">
-  <nav class="navbar navbar-expand-xxl navbar-light bg-light">
+  <nav class="navbar navbar-expand-md navbar-light" style="background-color: #FFFFFF;">
     <div class="container-fluid">
-        <a href="#" class="navbar-brand">Michael Tietje</a>
+        <a href="./index.html" class="navbar-brand">Michael Tietje</a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,7 +28,7 @@ function injectHeader () {
                         <a href="./bus-tracker.html" class="dropdown-item">Bus Tracker</a>
                         <div class="dropdown-divider"></div>
                         <a href="https://github.com/mk-tg" target="_blank" class="dropdown-item">GitHub Profile</a>
-                        <a href="./project.html" class="dropdown-item">Projects Directory</a>
+                        <a href="./projects.html" class="dropdown-item">Projects Directory</a>
                     </div>
                 </li>
             </ul>
