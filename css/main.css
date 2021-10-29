@@ -32,6 +32,12 @@ p {
   color: gray;
 }
 
+.thumbnail {
+  max-width: 50px;
+  max-height: 100px;
+  border: 1px solid #000;
+}
+
 
 @media (min-width: 701px) {
   .desk-img {
