@@ -1,3 +1,20 @@
 /* .dark-h1 {
   color: #000 !important;
 } */
+
+@media (min-width: 701px) {
+  .desk-img {
+    display: block;
+  }
+  .mobile-img {
+    display: none !important;
+  }
+
+@media (max-width: 700px) {
+  .desk-img {
+    display: none !important;
+  }
+  .mobile-img {
+    display: block;
+  }
+}
