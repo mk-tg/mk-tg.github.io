@@ -39,6 +39,9 @@ p {
   border: 1px solid #000;
 }
 
+#pacman-container{
+  height: 600px !important;
+}
 
 @media (min-width: 701px) {
   .desk-img {

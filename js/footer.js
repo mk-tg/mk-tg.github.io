@@ -26,7 +26,7 @@ function injectFooter () {
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.1)">
       © 2021 Copyright:
-      <a class="text-dark" href="mk-tg.github.io" target="_blank">Mike Tietje</a>
+      <a class="text-dark link-secondary" href="mk-tg.github.io" target="_blank">Mike Tietje</a>
     </div>
     <!-- Copyright -->
 
