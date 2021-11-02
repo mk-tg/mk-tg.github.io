@@ -3,7 +3,7 @@
 function injectHeader () {
   let headerInjectDiv = document.createElement('div');
   headerHTML = `<div class="container-md">
-  <nav class="navbar navbar-expand-md navbar-light" style="background-color: #FFFFFF;">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark" style="background-color: #FFFFFF;">
     <div class="container-fluid">
         <a href="./index.html" class="navbar-brand">Michael Tietje</a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
